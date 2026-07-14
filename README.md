@@ -1,4 +1,4 @@
-# SoC8840
+# SoC0226
 
 Single-technology IP library.
 
